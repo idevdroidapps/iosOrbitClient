@@ -1,0 +1,15 @@
+{
+  "originHash" : "d40dc1760b951df70f1425718b3f3ef05d2c2caba759401be6b8dd2cdf67e717",
+  "pins" : [
+    {
+      "identity" : "orbitsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/idevdroidapps/OrbitSDK",
+      "state" : {
+        "revision" : "9fb55a6a926a51a50fb8e804b51e93f54017dfdf",
+        "version" : "0.0.5"
+      }
+    }
+  ],
+  "version" : 3
+}
